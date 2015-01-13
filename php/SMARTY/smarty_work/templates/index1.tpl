@@ -1,11 +1,3 @@
-<?php
-session_start();
-ob_start();
-
-include './db.php';
-
-?>
-
 <!DOCUTYPE html>
 <html lang="ja">
 <head>

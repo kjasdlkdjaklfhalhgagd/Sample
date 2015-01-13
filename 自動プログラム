@@ -1,0 +1,9 @@
+<?php
+
+loop(){
+	$fn = $fnから拡張子を外す
+	//プログラムを動的に生成
+
+	//mockupのファイル名を.tplにして
+	//templateディレクトリにcopy
+}
